@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "hello begin"
 echo "hope successful"
-echo "here"
+echo "test global IP"
